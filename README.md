@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-zadanie domowe 2
+https://arkadiuszsmeder.github.io/goit-markup-hw-02/
